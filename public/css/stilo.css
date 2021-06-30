@@ -1,0 +1,20 @@
+ .articulos{
+    background-color: gray;
+    padding: 1%;  
+}
+
+section{
+    margin: 30px;
+}
+.detalles{
+    background-color: gray;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+ width: 30px;
+ height: 30px;
+}
+
